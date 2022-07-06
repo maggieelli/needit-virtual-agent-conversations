@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>new when needed date</key>
+        <language>en</language>
+        <message>New When Needed Date</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-05 21:00:21</sys_created_on>
+        <sys_id>d1929d0553a091102794ddeeff7b1230</sys_id>
+        <sys_name>new when needed date</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="sn_needit_virtual">2cc1d67053ec51102794ddeeff7b1214</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">2cc1d67053ec51102794ddeeff7b1214</sys_scope>
+        <sys_update_name>sys_ui_message_d1929d0553a091102794ddeeff7b1230</sys_update_name>
+    </sys_ui_message>
+</record_update>
